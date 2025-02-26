@@ -1,4 +1,4 @@
-# Falcon9-Predictions
+# SpaceX Falcon9 Launch Predictions
 
-## Initial text
+## Jupyter Notebook Collection: data collection, data wrangling, analysis & visualisations, dash application code, & machine learning modelling 
 Markdown 
